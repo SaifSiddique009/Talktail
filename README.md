@@ -24,7 +24,7 @@ You can interact with the deployed application directly in your browser!
 
 For a detailed walkthrough and demonstration of the project, please watch the video linked below:
 
-[Watch the Full Project Demo on Google Drive]([YOUR_GOOGLE_DRIVE_VIDEO_URL_HERE])
+[Watch the Full Project Demo on Google Drive](https://drive.google.com/file/d/1uDj2n73kclWthww4d2t7aOsLjZvf6nuH/view?usp=sharing)
 
 ## ✨ Features
 
